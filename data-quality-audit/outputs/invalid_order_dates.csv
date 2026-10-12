@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,product,quantity,unit_price
+O0013,C003,not_a_date,Notebook,2,3.5
+O0034,C037,not_a_date,Keyboard,5,19.5
+O0075,C030,not_a_date,Cable,6,4.0
+O0121,C024,not_a_date,Keyboard,6,19.5

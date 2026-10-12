@@ -1,0 +1,5 @@
+stage,row_count
+Original rows,224
+After removing extra exact duplicates,220
+After excluding invalid dates,216
+After excluding invalid quantity/price rows,211

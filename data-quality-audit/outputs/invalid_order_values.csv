@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,product,quantity,unit_price
+O0026,C031,2025-03-22,Pen,-3,1.2
+O0063,C046,2025-01-30,Lamp,5,-5.0
+O0089,C027,2025-03-14,Mouse,-2,12.5
+O0131,C029,2025-01-06,Lamp,5,-5.0
+O0152,C039,2025-03-22,Lamp,-2,16.0
